@@ -55,7 +55,11 @@ code {
 .brand {
   color: #363636 !important;
 }
+.navbar-brand {
+  color: white;
+}
 .nav-item {
+  color: white;
   transition: color, 0.2s;
 }
 .toggler {
