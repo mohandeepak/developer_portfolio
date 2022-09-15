@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/Mohan.png"),
   imageSize: 375,
   message:
-    "I am a Masters in Computer Science student at the Technical University of Munich. A Back-end developer with 5 years of experience. A tech enthusiast with interest in programming and building stuff. I have a passion for travel and love mountains. Talking about mountains, here's one of my favourite quotes",
+    "I am a Masters in Computer Science student at the Technical University of Munich. A Backend developer with 5 years of experience. A tech enthusiast with interest in programming and building stuff. I have a passion for travel and love mountains. Talking about mountains, here's one of my favourite quotes",
   // quotes:
   //   "It is not the mountain we conquer, but ourselves― Sir Edmund Hillary",
   resume: require("../editable-stuff/Resume_Mohan.pdf"),
