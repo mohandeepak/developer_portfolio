@@ -54,7 +54,9 @@ const about = {
   imageLink: require("../editable-stuff/Mohan.png"),
   imageSize: 375,
   message:
-    "Munich via Bangalore. I am a Masters in Computer Science student at the Technical University of Munich. A tech enthusiast with interest in programming and building stuff. I keep exploring all the new technologies and integrating them to build innovative solutions.I am drawn towards new technologies and a minimalist approach.I have a passion for travel as much as I can, and obsess over dogs. I am a developer, an optimist, an explorer looking to take on the world one challenge at a time.",
+    "I am a Masters in Computer Science student at the Technical University of Munich. A Back-end developer with 5 years of experience. A tech enthusiast with interest in programming and building stuff. I have a passion for travel and love mountains. Talking about mountains, here's one of my favourite quotes",
+  // quotes:
+  //   "It is not the mountain we conquer, but ourselves― Sir Edmund Hillary",
   resume: require("../editable-stuff/Resume_Mohan.pdf"),
 };
 
@@ -105,13 +107,17 @@ const skills = {
     { name: "Data Structures & Algorithms", value: 85 },
     { name: "MongoDB", value: 80 },
     { name: "Spring Boot", value: 85 },
+    { name: "Microservices", value: 80 },
     { name: "AWS", value: 70 },
     { name: "Docker", value: 70 },
     { name: "Gitlab CI/CD", value: 80 },
     { name: "JavaScript", value: 80 },
     { name: "React", value: 75 },
     { name: "HTML/CSS", value: 75 },
+    { name: "Python", value: 70 },
     { name: "C#", value: 50 },
+    { name: "Big Data", value: 60 },
+    { name: "TDD/BDD", value: 75 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -127,7 +133,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for Senior Backend developer role! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for Senior Backend Developer role! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "mohandeepak94@gmail.com",
 };
 
