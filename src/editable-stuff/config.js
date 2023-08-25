@@ -54,10 +54,10 @@ const about = {
   imageLink: require("../editable-stuff/Mohan.png"),
   imageSize: 375,
   message:
-    "I am a Masters in Computer Science student at the Technical University of Munich. A Backend developer with 5 years of experience. A tech enthusiast with interest in programming and building stuff. I have a passion for travel and love mountains. Talking about mountains, here's one of my favourite quotes",
+    "I am a software engineer with 5+ years of experience in developing highly scalable backend applications. My expertise spans a wide range of technologies, including Java, Spring Boot, MongoDB, MySQL, Docker, Kubernetes, and microservices architecture. I also hold a Master's degree in Computer Science from Technical University of Munich. I have a passion for travel and love mountains. Talking about mountains, here's one of my favourite quotes",
   // quotes:
   //   "It is not the mountain we conquer, but ourselves― Sir Edmund Hillary",
-  resume: require("../editable-stuff/Resume_Mohan.pdf"),
+  //resume: require("../editable-stuff/Resume_Mohan.pdf"),
 };
 
 // PROJECTS SECTION
@@ -107,15 +107,17 @@ const skills = {
     { name: "Data Structures & Algorithms", value: 85 },
     { name: "MongoDB", value: 80 },
     { name: "Spring Boot", value: 85 },
+    { name: "GraphQL", value: 85 },
     { name: "Microservices", value: 80 },
     { name: "AWS", value: 70 },
-    { name: "Docker", value: 70 },
+    { name: "Docker", value: 80 },
+    { name: "Kubernetes", value: 60 },
     { name: "Gitlab CI/CD", value: 80 },
     { name: "JavaScript", value: 80 },
     { name: "React", value: 75 },
     { name: "HTML/CSS", value: 75 },
-    { name: "Python", value: 70 },
-    { name: "C#", value: 50 },
+    { name: "Python", value: 50 },
+    { name: "Docker", value: 80 },
     { name: "Big Data", value: 60 },
     { name: "TDD/BDD", value: 75 },
   ],
@@ -133,7 +135,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for Senior Backend Developer role! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+        "If you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "mohandeepak94@gmail.com",
 };
 
@@ -149,12 +151,17 @@ const experiences = {
     {
       role: "Software Engineer II",
       companylogo: require("../assets/img/JP-Morgan-Chase-Logo.png"),
-      date: "Feb 2020 – Mar 2021",
+      date: "Feb 2019 – Mar 2020",
     },
     {
       role: "Working Student",
       companylogo: require("../assets/img/Rohde_&_Schwarz_Logo.svg.png"),
       date: "June 2021 – Present",
+    },
+    {
+       role: "Backend Engineer",
+       companylogo: require("../assets/img/GYG.png"),
+       date: "Feb 2023 – present",
     },
   ],
 };
