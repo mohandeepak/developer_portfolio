@@ -156,7 +156,7 @@ const experiences = {
     {
       role: "Working Student",
       companylogo: require("../assets/img/Rohde_&_Schwarz_Logo.svg.png"),
-      date: "June 2021 – Present",
+      date: "June 2021 – Jan 2023",
     },
     {
        role: "Backend Engineer",
