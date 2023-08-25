@@ -31,10 +31,6 @@
     "eject": "react-scripts eject",
     "custom-deploy": "node pages.js"
   },
-  "engines": {
-    "npm": "^9.8.0",
-    "node": "^20.5.1"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
